@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(pink, red);
+  font-family: Arial;
+  text-align: center;
+  color: white;
+}
+
+input, button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+audio {
+  margin-top: 20px;
+}
